@@ -1,0 +1,27 @@
+c:\users\dal\documents\visual studio 2010\Projects\muze\muze\bin\Debug\muze.exe
+c:\users\dal\documents\visual studio 2010\Projects\muze\muze\bin\Debug\muze.pdb
+c:\users\dal\documents\visual studio 2010\Projects\muze\muze\bin\Debug\muze.xml
+c:\users\dal\documents\visual studio 2010\Projects\muze\muze\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dal\documents\visual studio 2010\Projects\muze\muze\obj\x86\Debug\muze.Form1.resources
+c:\users\dal\documents\visual studio 2010\Projects\muze\muze\obj\x86\Debug\muze.Resources.resources
+c:\users\dal\documents\visual studio 2010\Projects\muze\muze\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dal\documents\visual studio 2010\Projects\muze\muze\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dal\documents\visual studio 2010\Projects\muze\muze\obj\x86\Debug\muze.exe
+c:\users\dal\documents\visual studio 2010\Projects\muze\muze\obj\x86\Debug\muze.xml
+c:\users\dal\documents\visual studio 2010\Projects\muze\muze\obj\x86\Debug\muze.pdb
+C:\Users\dal\documents\visual studio 2010\Projects\muze\muze\bin\Debug\Interop.WMPLib.dll
+C:\Users\dal\documents\visual studio 2010\Projects\muze\muze\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dal\documents\visual studio 2010\Projects\muze\muze\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\dal\documents\visual studio 2010\Projects\muze\muze\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\dal\documents\visual studio 2010\Projects\muze\muze\obj\x86\Debug\muze.vbproj.ResolveComReference.cache
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\muze\muze\obj\x86\Debug\muze.vbprojAssemblyReference.cache
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\muze\muze\obj\x86\Debug\muze.exe
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\muze\muze\obj\x86\Debug\muze.xml
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\muze\muze\obj\x86\Debug\muze.pdb
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\muze\muze\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\muze\muze\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\muze\muze\obj\x86\Debug\muze.vbproj.ResolveComReference.cache
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\muze\muze\obj\x86\Debug\muze.Form1.resources
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\muze\muze\obj\x86\Debug\muze.Resources.resources
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\muze\muze\obj\x86\Debug\muze.vbproj.GenerateResource.cache
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\muze\muze\obj\x86\Debug\muze.vbproj.CoreCompileInputs.cache
